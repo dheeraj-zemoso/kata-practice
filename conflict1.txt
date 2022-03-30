@@ -1,0 +1,1 @@
+Change2. I am again changing the content conflict-1.txt, in the new branch merge-conflict-branch2
