@@ -1,0 +1,1 @@
+Adding some changes to conflict1.txt in the master branch
