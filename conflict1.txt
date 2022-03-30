@@ -1,1 +1,1 @@
-Creating new conflict in conflict1.txt file in the mergesort-impl branch.
+Making changes in the conflict1.txt file to reflect merge conflict.
