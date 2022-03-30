@@ -1,2 +1,1 @@
-
 Making changes in the conflict1.txt file to reflect merge conflict.
