@@ -1,1 +1,2 @@
-3
+This is inside file.txt 
+I am making changes for the first time.
